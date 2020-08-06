@@ -6,7 +6,7 @@ flutter create newapp
 
 above cmd will create a one demo app
 
-after creating this app create derectory assets , images and video
+after creating this app create directory assets , images and video
 
 copy audio files in assets folder
 
